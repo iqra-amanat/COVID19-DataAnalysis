@@ -1,28 +1,28 @@
 
 # COVID-19 Data Analysis
 
-# 📋 Project Overview
+## 📋 Project Overview
 
 This project analyzes the latest COVID-19 data to uncover global trends and patterns, focusing on confirmed cases, deaths, recoveries, and active cases. The analysis includes visualizations for the top 10 countries with the highest number of confirmed cases, as well as their mortality and recovery rates.
 
 
 ---
 
-# 📊 Features of the Analysis
+## 📊 Features of the Analysis
 
-# Global Totals:
+## Global Totals:
 
 Summarizes total confirmed cases, deaths, recoveries, and active cases worldwide.
 
 
-# Top 10 Countries:
+## Top 10 Countries:
 
 Identifies the top 10 countries with the highest confirmed cases.
 
 Visualizes the confirmed cases, mortality rates, recovery rates, and active cases.
 
 
-# Mortality and Recovery Rates:
+## Mortality and Recovery Rates:
 
 Calculates mortality and recovery rates for the top 10 countries and presents them in bar charts.
 
@@ -31,7 +31,7 @@ Calculates mortality and recovery rates for the top 10 countries and presents th
 
 ---
 
-# 📂 Dataset
+## 📂 Dataset
 
 Source: Kaggle
 
