@@ -40,7 +40,7 @@ Dataset Name: COVID-19 Dataset
 Dataset URL: country_wise_latest
 
 
-# Columns:
+## Columns:
 
 Country: Name of the country.
 
@@ -57,7 +57,7 @@ Active: Total active cases (calculated as Confirmed - Deaths - Recovered).
 
 ---
 
-# 🛠️ Tools & Libraries Used
+## 🛠️ Tools & Libraries Used
 
 Programming Language: Python
 
@@ -74,7 +74,7 @@ Seaborn: For advanced data visualization.
 
 ---
 
-# 🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 1. Clone this repository:
 
@@ -96,7 +96,7 @@ pip install pandas matplotlib seaborn
 
 ---
 
-# 🔑 Insights Gained
+## 🔑 Insights Gained
 
 1. Total global confirmed cases, deaths, recoveries, and active cases.
 
@@ -114,7 +114,7 @@ pip install pandas matplotlib seaborn
 
 ---
 
-# 📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License.
 
