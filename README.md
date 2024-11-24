@@ -1,7 +1,7 @@
 
 # COVID-19 Data Analysis
 
-## 📋 Project Overview
+### 📋 Project Overview
 
 This project analyzes the latest COVID-19 data to uncover global trends and patterns, focusing on confirmed cases, deaths, recoveries, and active cases. The analysis includes visualizations for the top 10 countries with the highest number of confirmed cases, as well as their mortality and recovery rates.
 
