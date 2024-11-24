@@ -8,21 +8,21 @@ This project analyzes the latest COVID-19 data to uncover global trends and patt
 
 ---
 
-## 📊 Features of the Analysis
+### 📊 Features of the Analysis
 
-## Global Totals:
+### Global Totals:
 
 Summarizes total confirmed cases, deaths, recoveries, and active cases worldwide.
 
 
-## Top 10 Countries:
+### Top 10 Countries:
 
 Identifies the top 10 countries with the highest confirmed cases.
 
 Visualizes the confirmed cases, mortality rates, recovery rates, and active cases.
 
 
-## Mortality and Recovery Rates:
+### Mortality and Recovery Rates:
 
 Calculates mortality and recovery rates for the top 10 countries and presents them in bar charts.
 
@@ -31,7 +31,7 @@ Calculates mortality and recovery rates for the top 10 countries and presents th
 
 ---
 
-## 📂 Dataset
+### 📂 Dataset
 
 Source: Kaggle
 
@@ -40,7 +40,7 @@ Dataset Name: COVID-19 Dataset
 Dataset URL: country_wise_latest
 
 
-## Columns:
+### Columns:
 
 Country: Name of the country.
 
@@ -57,7 +57,7 @@ Active: Total active cases (calculated as Confirmed - Deaths - Recovered).
 
 ---
 
-## 🛠️ Tools & Libraries Used
+### 🛠️ Tools & Libraries Used
 
 Programming Language: Python
 
@@ -74,7 +74,7 @@ Seaborn: For advanced data visualization.
 
 ---
 
-## 🚀 How to Run the Project
+### 🚀 How to Run the Project
 
 1. Clone this repository:
 
@@ -96,7 +96,7 @@ pip install pandas matplotlib seaborn
 
 ---
 
-## 🔑 Insights Gained
+### 🔑 Insights Gained
 
 1. Total global confirmed cases, deaths, recoveries, and active cases.
 
